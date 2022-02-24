@@ -1,0 +1,9 @@
+# ignore checkpoint folder
+.ipynb_checkpoints/
+
+# ignore dev notebooks
+CasADi_StarshipTrajOpt.ipynb
+pyomo_CarTrajectory.ipynb
+pyomo_LunarLanding-TrajOpt.ipynb
+pyomo_StarshipTrajOpt.ipynb
+
